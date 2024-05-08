@@ -71,12 +71,12 @@ body {
 .sub_page .hero_area {
   height: auto;
   background: none;
-  background-color: #252424;
+  background-color: #000000;
 }
 
 .sub_page .footer_bg {
   background: none;
-  background-color: #252424;
+  background-color: #000000;
   padding-top: 45px;
 }
 
@@ -330,7 +330,7 @@ a:focus {
 
 .slider_section .carousel_btn-container .carousel-control-prev:hover,
 .slider_section .carousel_btn-container .carousel-control-next:hover {
-  background-color: #252424;
+  background-color: #000000;
 }
 
 .slider_section .carousel_btn-container .carousel-control-prev {
@@ -371,7 +371,7 @@ a:focus {
 }
 
 .service_section {
-  background-color: #252424;
+  background-color: #000000;
   color: #ffffff;
   text-align: center;
 }
@@ -572,7 +572,7 @@ a:focus {
   border-radius: 25px;
   -webkit-transform: translateX(-52.5%) rotate(-15deg);
           transform: translateX(-52.5%) rotate(-15deg);
-  background-color: #252424;
+  background-color: #000000;
 }
 
 .team_section .team_container .box .detail-box {
@@ -667,7 +667,7 @@ a:focus {
 
 .client_section .carousel_btn-container .carousel-control-prev:hover,
 .client_section .carousel_btn-container .carousel-control-next:hover {
-  background-color: #252424;
+  background-color: #000000;
 }
 
 .client_section .carousel_btn-container .carousel-control-prev {
